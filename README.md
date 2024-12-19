@@ -1,4 +1,4 @@
-# GitHub
+# GitHub Lectures Summaries
 This repository contains summaries of three lectures on Git and GitHub provided by Naver Boostcamp.
 
 ## Contents
